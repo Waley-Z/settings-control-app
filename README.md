@@ -8,6 +8,8 @@ The Animation Scale changes both window animation scale and transition animation
 
 <img src="README.assets/image-20220423201913023.png" alt="screenshot" width="30%"/>
 
+See the [demo video](https://drive.google.com/file/d/1f-tsAwTrNCihAqUzW49MmY9dXI5YzIVE/view?usp=sharing).
+
 ## Getting Started
 
 - [Android Studio](https://developer.android.com/studio) is the IDE used in this project to code and launch emulators.
